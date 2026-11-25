@@ -1,1 +1,1 @@
-export default function P(){return <h1>GH-1 live test: pushed by Autoweb Sites</h1>}
+export default function P(){return <main><h1>Crumb and Co</h1><p>Published from Autoweb Sites through the customer's own GitHub repository.</p></main>}
