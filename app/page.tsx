@@ -1,1 +1,1 @@
-export default function P(){return <h1>broken</h1
+export default function P(){return <h1>GH-1 live test: pushed by Autoweb Sites</h1>}
